@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <string name="texto_fragment">Conteúdo de dentro da Fragment</string>
+    <string name="fragment_01">Fragment 01</string>
+    <string name="fragment_02">fragment 02</string>
+    <string name="eu_que_fiz">Este foi eu quem fiz!</string>
+</resources>
